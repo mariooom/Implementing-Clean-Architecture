@@ -22,9 +22,9 @@ This Flutter project follows Clean Architecture, implementing a structured separ
 
 ##  Plugins Used
 
-`flutter_bloc: ^9.0.0`: ^9.0.0 - State management using BLoC pattern.
-`equatable`: ^2.0.7 - Simplifies value comparison in Dart objects.
-`get_it`: ^8.0.3 - Dependency injection for better app modularity.
-`dio`: ^5.8.0+1 - Powerful HTTP client for making API requests.
-`json_annotation`: ^4.9.0 - Helps in JSON serialization and deserialization.
+- `flutter_bloc: ^9.0.0`: ^9.0.0 - State management using BLoC pattern.
+- `equatable`: ^2.0.7 - Simplifies value comparison in Dart objects.
+- `get_it`: ^8.0.3 - Dependency injection for better app modularity.
+- `dio`: ^5.8.0+1 - Powerful HTTP client for making API requests.
+- `json_annotation`: ^4.9.0 - Helps in JSON serialization and deserialization.
 
